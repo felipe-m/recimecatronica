@@ -46,5 +46,5 @@ El taller tendrá varias partes:
 ## Hojas de características
 Se irá ampliando, poniendo precios y dónde comprar.
 
-Más información en: [Hojas de características](./dataheets/readme.md)
+Más información en: [Hojas de características](./datasheets/readme.md)
 
