@@ -5,23 +5,17 @@ Para este taller vamos a utilizar componentes de aparatos que no fucnionen como:
 El taller tendrá varias partes:
 
 1. **Identificación y funcionamiento de los motores**
-
   * Búsqueda e identificación de motores
   * Funcionamiento de los motores de continua
   * Funcionamiento de los motores paso a paso
-
 1. **Electrónica básica para manejar los motores**
-
   * Interruptores
   * Transistores como interruptor
   * Puentes en H (más avanzado)
-
 1. **Generación de señales de control desde Arduino**
-
   * PWM para motores de continua
   * Generación de señales para los motores paso a paso
   * Control de velocidad y posición: pulsadores, potenciómetros, sensores, finales de carrera
-
 1. **Diseño de la parte mecánica y transmisión**
   * Correas, poleas, tornillos sin fin, engranajes
   * Ejes y rodamientos
@@ -32,9 +26,7 @@ El taller tendrá varias partes:
 1. **Ampliación del diseño de la parte mecánica y transmisión**
   * Estructura con perfiles de alumnio
   * Diseño de piezas en FreeCAD, impresión 3D y fresadora CNC
-
 1. **Más electrónica**
-
   * Uso de optoacopladores para proteger el Arduino
   * Sensores
   * Relés
