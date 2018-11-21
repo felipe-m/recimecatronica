@@ -27,6 +27,10 @@
 ## Operacionales
 * TLV2462: rail to rail
 
+## Otros componentes útiles
+* [NE555](ne555_texas.pdf) - [LM555](lm555_fairchild.pdf): Enlace [wikipedia](https://es.wikipedia.org/wiki/Circuito_integrado_555)
+* [74HC4051](74hc4051.pdf): Multiplexor-demultiplexor analógico
+
 
 
 
