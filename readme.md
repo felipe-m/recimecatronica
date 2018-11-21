@@ -4,40 +4,42 @@ Para este taller vamos a utilizar componentes de aparatos que no fucnionen como:
 
 El taller tendrá varias partes:
 
-1. Identificación y funcionamiento de los motores
+1. **Identificación y funcionamiento de los motores**
 
-Vamos a utilizar los motores paso a paso y motores de corriente continua que encontremos en los aparatos que tengamos disponibles.
-Aprenderemos a identificarlos y saber cómo se manejan.
+  * Búsqueda e identificación de motores
+  * Funcionamiento de los motores de continua
+  * Funcionamiento de los motores paso a paso
 
+1. **Electrónica básica para manejar los motores**
 
-1. Electrónica básica para manejar los motores
+  * Interruptores
+  * Transistores como interruptor
+  * Puentes en H (más avanzado)
 
-..* Interruptores
-..* Transistores como interruptor
-..* Puentes en H (más avanzado)
+1. **Generación de señales de control desde Arduino**
 
-1. Generación de señales de control desde Arduino
+  * PWM para motores de continua
+  * Generación de señales para los motores paso a paso
+  * Control de velocidad y posición: pulsadores, potenciómetros, sensores, finales de carrera
 
-..* PWM para motores de continua
-..* Generación de señales para los motores paso a paso
-..* Control de velocidad y posición: pulsadores, potenciómetros, sensores, finales de carrera
+1. **Diseño de la parte mecánica y transmisión**
+  * Correas, poleas, tornillos sin fin, engranajes
+  * Ejes y rodamientos
 
 
 ## Opcional
 
-1. Diseño de la parte mecánica y transmisión
-..* Correas, poleas, tornillos sin fin, engranajes
-..* Estructura con perfiles de alumnio
-..* Ejes y rodamientos
-..* Diseño de piezas en FreeCAD, impresión 3D y fresadora CNC
+1. **Ampliación del diseño de la parte mecánica y transmisión**
+  * Estructura con perfiles de alumnio
+  * Diseño de piezas en FreeCAD, impresión 3D y fresadora CNC
 
-1. Electrónica
+1. **Más electrónica**
 
-..* Uso de optoacopladores para proteger el Arduino
-..* Sensores
-..* Relés
-..* Sonido
-..* Otros componentes electrónicos: Driver Pololu A4998
+  * Uso de optoacopladores para proteger el Arduino
+  * Sensores
+  * Relés
+  * Sonido
+  * Otros componentes electrónicos: Driver Pololu A4998
 
 
 ## Material necesario
@@ -47,7 +49,7 @@ Aprenderemos a identificarlos y saber cómo se manejan.
 * Cables
 * Impresoras o aparatos electromecánicos viejos, mejor de informática.
 * Componentes electrónicos. Se irán añadiendo en la carpeta de hojas de características, no hacen falta todos.
-* Interés por aprender
+* Ganas de aprender :)
 
 ## Hojas de características
 Se irá ampliando, poniendo precios y dónde comprar
