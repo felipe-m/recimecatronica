@@ -39,6 +39,7 @@ El taller tendrá varias partes:
 * Placa de prototipos
 * Fuente de alimentación (vale la de un ordenador)
 * Cables
+* Arduino o similar
 * Impresoras o aparatos electromecánicos viejos, mejor de informática.
 * Componentes electrónicos. Se irán añadiendo en la carpeta de hojas de características, no hacen falta todos.
 * Ganas de aprender :)
